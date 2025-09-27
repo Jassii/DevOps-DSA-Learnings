@@ -1,2 +1,2 @@
-# DSA-Coding
-This repository will contain the solution of the DSA Problems
+# DevOps-DSA-Practice
+This repository will contain the learnings and solutions of the DevOps and DSA Problems.
